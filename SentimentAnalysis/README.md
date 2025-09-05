@@ -11,6 +11,8 @@ Sentiment Analysis notebook follows the folllowing steps:
 - `Tweets.csv` - Dataset
 
 ## Dataset
+<img width="529" height="359" alt="image" src="https://github.com/user-attachments/assets/ed67c146-4039-4ee9-a7c4-7cac222dfc33" />
+
 
 ## Libraries Used
 
