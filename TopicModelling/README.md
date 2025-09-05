@@ -11,6 +11,8 @@ Topic Modelling notebook follows the folllowing steps:
 - `amazon_reviews.csv` - Dataset
 
 ## Dataset
+<img width="568" height="543" alt="image" src="https://github.com/user-attachments/assets/d65eaaa3-9af9-4bd8-9589-1a6094ecfb47" />
+
 
 ## Libraries Used
 
